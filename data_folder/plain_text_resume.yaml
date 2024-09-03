@@ -1,0 +1,180 @@
+personal_information:
+  name: "Sai Manideep"
+  surname: "Chittiprolu"
+  date_of_birth: "13/12/1998"
+  country: "United States"
+  city: "Charlotte"
+  address: "Charlotte"
+  phone_prefix: "+1"
+  phone: "9808955999"
+  email: "saimanideep83@gmail.com"
+  github: "https://github.com/Manideep998"
+  linkedin: "https://www.linkedin.com/in/saimanideep13/"
+  
+education_details:
+  - degree: "Master's Degree"
+    university: "University of North Carolina, Greensboro"
+    gpa: "3.7/4"
+    graduation_year: "2023"
+    field_of_study: "Computer Science"
+
+  - degree: "Bachelor's Degree"
+    university: "R.V.R & J.C College of Engineering, Guntur, India"
+    gpa: "3/4"
+    graduation_year: "2020"
+    field_of_study: "Electronics and Communication Engineering"
+
+
+experience_details:
+  - position: "Data Engineer"
+    company: "Vision Square Inc."
+    employment_period: "08/2023 - Present"
+    location: "Charlotte, NC, USA"
+    industry: "Software Engineering"
+    key_responsibilities:
+      - responsibility_1: "Led the end-to-end migration of large-scale financial data from on-premises systems to AWS cloud infrastructure ensuring minimal downtime and data integrity"
+      - responsibility_2: "Designed and developed scalable and robust data pipelines using AWS Glue, PySpark, and AWS EMR, resulting in improved data processing efficiency and reliability"
+      - responsibility_3: "Orchestrated complex ETL workflows with Apache Airflow, automating data extraction, transformation, and loading processes to ensure data accuracy and consistency"
+      - responsibility_4: "Managed data warehousing solutions with AWS Redshift, Snowflake, and Snowflake Snowpark, optimizing schema design and query performance for faster data retrieval and analysis"
+      - responsibility_5: "Implemented partitioning, indexing, and other performance tuning techniques to enhance data query efficiency"
+      - responsibility_6: "Administered Oracle Database, Amazon DynamoDB, Mongo DB, IBM DB2, and Snowflake Snowcloud, ensuring high availability, scalability, and data security"
+      - responsibility_7: " Developed and maintained RESTful APIs for seamless data integration with various applications and systems"
+      - responsibility_8: "Employed infrastructure as code (IaC) practices using tools like Terraform and AWS CloudFormation to automate the deployment and configuration of data infrastructure"
+      - responsibility_9: "Implemented CI/CD pipelines to streamline the development, testing, and deployment of data solutions, enhancing overall productivity and code quality"
+    skills_acquired:
+      - "AWS"
+      - "Python"
+      - "ETL"
+      - "Data Science"
+      - "Data Engineering"
+      - "Data Warehouse"
+      - "Data Pipelines"
+      - "Data Integration"
+      - "Data Analysis"
+      - "Data Visualization"
+      - "Data Quality"
+      - "Data Security"
+      - "Data Migration"
+      - "Data Analytics"
+      - "Data Governance"
+      - "Data Modeling"
+
+  - position: "Graduate Research Assistant"
+    company: "University of North Carolina, Greensboro"
+    employment_period: "02/2022 - 04/2023"
+    location: "Greensboro, NC, USA"
+    industry: "Software Engineering"
+    key_responsibilities:
+      - responsibility_1: "Processed over 100 GB of university's data using Azure services including Azure Data Lake Storage and Azure Cosmos DB, resulting in improved data handling efficiency and scalability"
+      - responsibility_2: "Developed and validated advanced financial models that accurately projected financial outcomes with a forecast accuracy rate of over 95%, leading to informed decision-making and strategic planning"
+      - responsibility_3: "Orchestrated and automated data workflows for 10+ heterogeneous data sources using Azure Data Factory pipelines and Databricks clusters, reducing data processing time by 50%"
+      - responsibility_4: "Implemented machine learning algorithms and models for various tasks, resulting in a 30% improvement in model performance and scalability compared to previous implementations"
+      - responsibility_5: "Designed and developed 5+ RESTful APIs using Azure API Management and ASP.NET Web API, facilitating seamless integration between internal data analytics systems and external applications"
+      - responsibility_6: "Utilized Apache Kafka to enable real-time data streaming and processing, ensuring timely and accurate analysis of university data and facilitating immediate decision-making processes"
+      - responsibility_7: "Contributed domain-specific knowledge and technical expertise to interdisciplinary teams, leading to the successful completion of 5 research projects and the development of innovative analytical methodologies"
+      - responsibility_8: "Conducted ETL processes to extract, transform, and load university data using Talend, ensuring data accuracy, consistency, and Hadoop for processing and analyzing large volumes of university data"
+      - responsibility_9: "Created interactive dashboards and visualizations using Power BI to present key insights from university datasets to stakeholders"
+    skills_acquired:
+      - "Azure"
+      - "Power BI"
+      - "ETL"
+      - "Data Science"
+      - "Data Engineering"
+      - "Data Warehouse"
+      - "Data Pipelines"
+
+  - position: "Data Engineer"
+    company: "Infosys Pvt. Ltd."
+    employment_period: "09/2019 - 11/2021"
+    location: "Hyderabad, India"
+    industry: "Healthcare IT"
+    key_responsibilities:
+      - responsibility_1: "Designed and deployed AWS-based ETL pipelines for 10+ diverse medical device data sources, facilitating the ingestion and processing of over 500 GB of medical records data daily"
+      - responsibility_2: "Engineered scalable data transformation processes using AWS Lambda, Apache Spark, SQL, Databricks and AWS Glue, resulting in a 40% improvement in data quality and integrity"
+      - responsibility_3: "Implemented advanced data modeling techniques, resulting in a 40% improvement in query performance for multidimensional medical device datasets, enabling efficient data retrieval system for stakeholders"
+      - responsibility_4: "Utilized AWS Redshift and AWS Athena to analyze over 100 GB of medical device data, enabling stakeholders to uncover actionable insights and trends with 15% increase in operational efficiency"
+      - responsibility_5: "Orchestrated automated deployment and scaling of data processing infrastructure, reducing deployment time by 60% and enabling seamless scalability to accommodate fluctuating data volumes"
+      - responsibility_6: "Implemented robust data governance and security measures, resulting in a 30% reduction in data security incidents and ensuring compliance with industry regulations such as HIPAA and GDPR"
+      - responsibility_7: "Applied R and Python for hypothesis testing, regression analysis, decision trees, and churn analysis on medical device datasets, deriving actionable insights using Tableau and Power BI"
+      - responsibility_8: "Implemented continuous integration and continuous deployment (CI/CD) pipelines using Azure DevOps, Git, and Jenkins, automating the build, test, and deployment processes for data analytics solutions"
+      - responsibility_9: "Collaborated with development and operations teams to implement infrastructure as code (IaC) using Terraform and ARM templates, enabling repeatable deployment of infrastructure components"
+      - responsibility_10: "Participated in Agile development sprints, collaborating with cross-functional teams to deliver data analytics solutions on schedule, leveraged advanced MS Excel features for data manipulation and analysis"
+    skills_acquired:
+      - "AWS"
+      - "CI/CD"
+      - "DevOps"
+      - "Agile"
+      - "Terraform"
+      - "ETL"
+      - "Data Science"
+      - "Data Engineering"
+      - "Data Warehouse"
+      - "Data Pipelines"
+
+projects:
+  - name: "Drowsiness Detection System"
+    description: "Developed a deep learning-based system that detects drowsiness in real-time using machine learning and deep learning techniques"
+    link: None
+  - name: "Heart Disease Prediction Analysis"
+    description: "Utilized Support Vector Machine, Naïve Bayes, and Decision Tree algorithms to predict heart disease symptoms and analyzing dataset comprising 10,000 patient records"
+    link: None
+  - name: "Aspect Based Sentiment Analysis On Restaurant Reviews"
+    description: "Developed a sentiment analysis model to evaluate customer reviews, focusing on specific aspects of the dining experience, Utilized BERT, NLTK, Word2Vec, GloVe, and lemmatization techniques to preprocess and analyze textual data, achieving accurate sentiment categorization."
+    link: None
+  - name: "Spotify ETL Project"
+    description: "Created an ETL pipeline for top chart song analysis using Azure services, and used Azure Storage Account, Data Factory, Databricks, Synapse Analytics, and Power BI for data processing, storage, and visualization, conducted comprehensive data analysis to identify trends and insights from Spotify's top charts."
+    link: None
+  - name: "Covid-19 Analysis"
+    description: "Analyzed data from 2020 to 2022 to identify trends and insights using Python, Pandas, Numpy, Matplotlib, and Seaborn."
+    link: None
+achievements:
+  - name: "Microsoft Certified Azure Data Engineer Associate"
+    description: "Azure Data Engineer Associate"
+
+certifications:
+  - "Microsoft Certified Azure Data Engineer Associate"
+
+languages:
+  - language: "English"
+    proficiency: "Fluent"
+  - language: "Telugu"
+    proficiency: "Native"
+
+interests:
+  - "Machine Learning"
+  - "Software Architecture"
+  - "Software Engineering"
+  - "Software Testing"
+  - "Artificial Intelligence"
+  - "Cloud Technologies"
+
+availability:
+  notice_period: "immediately"
+
+salary_expectations:
+  salary_range_usd: "100000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "No"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "Yes"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
